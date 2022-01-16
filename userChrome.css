@@ -34,13 +34,13 @@ tab:not([selected="true"]) {
 }
 
 /* tab font */
-tab { font-family: 'Jetbrains Mono', monospace; border: none; }
+tab { font-family: 'Iosevka Term', monospace; border: none; }
 
 /* safari style tab width */  
 .tabbrowser-tab[fadein]{ max-width: 100vw !important; border: none }
 
-/* hide nav bar */
-/* #nav-bar { visibility: collapse; } */
+ hide nav bar */
+ #nav-bar { visibility: collapse; } */
 
 /* auto-hide nav-bar (nav-bar shows when F6 is pressed)*/
   #navigator-toolbox {
